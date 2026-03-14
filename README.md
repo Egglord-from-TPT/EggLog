@@ -1,4 +1,4 @@
-# egglog
+# egglogger
 
 A simple Python library that logs all outputs to your documents folder. If you don't have a documents folder, it will create one.
 
