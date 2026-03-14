@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="egg",
-    version="1.0.0",
+    version="1.0.1",
     packages=find_packages(),
     description="A python library that logs all output.",
     author="",
